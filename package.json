@@ -28,7 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yourusername.github.io/qpgen",
+  "homepage": "https://naactools-max.github.io/qpgen",
   "eslintConfig": {
     "extends": [
       "react-app",
