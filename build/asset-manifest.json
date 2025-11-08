@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qpgen/static/css/main.f855e6bc.css",
+    "main.js": "/qpgen/static/js/main.2a8b388d.js",
+    "static/js/453.b1af0be1.chunk.js": "/qpgen/static/js/453.b1af0be1.chunk.js",
+    "static/media/logo.svg": "/qpgen/static/media/logo.32c366d1d3fb2b7e3d7bf067547ecdca.svg",
+    "index.html": "/qpgen/index.html",
+    "main.f855e6bc.css.map": "/qpgen/static/css/main.f855e6bc.css.map",
+    "main.2a8b388d.js.map": "/qpgen/static/js/main.2a8b388d.js.map",
+    "453.b1af0be1.chunk.js.map": "/qpgen/static/js/453.b1af0be1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a8b388d.js"
+  ]
+}
